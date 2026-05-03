@@ -1,7 +1,3 @@
-# Go CLI Template
+# Mentat
 
-A template containing the basic setup I like for most of my small Go CLI projects.
-
-```sh
-gh repo create <new-repository-name> --template="kalverra/go-cli-template"
-```
+A CLI application for collecting and understanding personal data.
